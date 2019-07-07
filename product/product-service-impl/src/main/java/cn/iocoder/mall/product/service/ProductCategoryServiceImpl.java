@@ -151,5 +151,9 @@ public class ProductCategoryServiceImpl implements ProductCategoryService {
         }
     }
 
+    public void fixData(){
+
+    }
+
 
 }
